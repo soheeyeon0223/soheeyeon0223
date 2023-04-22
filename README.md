@@ -1,5 +1,5 @@
-### <h2>Heeyeon So :dizzy:</h2>
-I'm studying at :mortar_board: <strong>Soongsil University.</strong>  
+### <center><h2>Heeyeon So :dizzy:</h2></center>
+<center>I'm studying at :mortar_board: <strong>Soongsil University.</strong></center>  
   
 I'm interested in <strong>Web :computer:FE Development and :art: UX/UI Design.</strong>  
   
