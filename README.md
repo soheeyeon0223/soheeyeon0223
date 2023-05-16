@@ -2,7 +2,7 @@
 
 I'm studying at :mortar_board: <strong>Soongsil University.</strong> 
   
-I'm interested in <strong>Web :computer:FE Development and :art: UX/UI Design.</strong>  
+I'm interested in <strong>Web :computer: FE Development and :art: UX/UI Design.</strong>  
   
 My ⚒ <strong>Tech Stacks</strong> are
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
