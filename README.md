@@ -1,1 +1,1 @@
-![ReadMe_heeyeon](https://github.com/user-attachments/assets/f42f0183-40ff-4af7-8fc1-2b6ef11e3e66)
+![heeyeon_readme](https://github.com/user-attachments/assets/2f304b73-809a-4813-b2e4-a03fb7cfc4ea)
